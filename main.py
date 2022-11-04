@@ -1,1 +1,1 @@
-print("Hello Ameninn :D");
+print("Hello Amenin :D");
